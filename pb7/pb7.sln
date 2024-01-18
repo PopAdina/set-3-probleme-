@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pb7", "pb7\pb7.csproj", "{A30A9614-B41C-4632-8167-D270B336B4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30A9614-B41C-4632-8167-D270B336B4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30A9614-B41C-4632-8167-D270B336B4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30A9614-B41C-4632-8167-D270B336B4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30A9614-B41C-4632-8167-D270B336B4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {053B937C-FA48-4EB6-9F5F-CC1CB9BB1204}
+	EndGlobalSection
+EndGlobal
